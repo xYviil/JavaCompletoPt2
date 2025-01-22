@@ -1,11 +1,9 @@
 package programs;
 
 import entities.Product;
-import util.UppercaseName;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Function {
 
