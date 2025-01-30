@@ -46,7 +46,5 @@ public class Exercicio1_Stream {
             System.out.println("Error: " + e.getMessage());
         }
         sc.close();
-
     }
-
 }
